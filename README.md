@@ -25,7 +25,8 @@
 I'm Manasvi (he/him) — a software developer who likes to build things **end-to-end**: a mobile app with a real AI backend, a computer-vision app that reacts to you in real time, a browser arcade with zero installs, or a 3D scene in Unity. I care about shipping working products, not just proofs of concept.
 
 - 🧠 Actively solving **Medium/Hard LeetCode** problems to sharpen data structures & algorithms
-- 🛠️ Comfortable across the stack: **React, FastAPI/Python, Kotlin/Android, C/C#, Unity**
+- 🛠️ Comfortable across the stack: **React, FastAPI/Python, C/C#, Unity**
+- 🤖 Use **Claude** as part of my day-to-day dev workflow
 - 👁️ Enjoy computer vision projects — face recognition, pose estimation, real-time tracking
 - 🎮 Started with game development in C, still build games for fun
 - 📫 Open to **Software Engineering / Full-Stack** opportunities — reach out on [LinkedIn](https://www.linkedin.com/in/manasvi-garg-630446257/) or [email](mailto:manasvi1238274@gmail.com)
@@ -48,7 +49,7 @@ I'm Manasvi (he/him) — a software developer who likes to build things **end-to
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=claude&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
